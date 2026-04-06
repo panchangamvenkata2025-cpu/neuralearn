@@ -6,3 +6,4 @@ chromadb
 langchain
 huggingface-hub
 PyMuPDF
+python-pptx
