@@ -5,3 +5,4 @@ aiohttp
 chromadb
 langchain
 huggingface-hub
+PyMuPDF
